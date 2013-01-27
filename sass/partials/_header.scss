@@ -1,15 +1,17 @@
 body > header {
   background: $header-bg;
+  background : image-url('fungo-puce.png') 0px 45px no-repeat;
+  background-size: 70px 70px;
   h1 {
     display: inline-block;
-    margin: 0;
+    margin: 0 .2em;
     a, a:visited, a:hover {
       color: $title_color;
       text-decoration: none;
     }
   }
   h2 {
-    margin: .2em 0 0;
+    margin: .2em .5em 0;
     @extend .sans;
     font-size: 1em;
     color: $subtitle-color;
