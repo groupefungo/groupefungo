@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://groupefungo.github.com/atom.xml" rel="self"/>
-  <link href="http://groupefungo.github.com/"/>
-  <updated>2013-01-26T20:52:34-05:00</updated>
-  <id>http://groupefungo.github.com/</id>
+  <link href="http://groupefungo.github.com/groupefungo/atom.xml" rel="self"/>
+  <link href="http://groupefungo.github.com/groupefungo/"/>
+  <updated>2013-01-27T09:50:51-05:00</updated>
+  <id>http://groupefungo.github.com/groupefungo/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
