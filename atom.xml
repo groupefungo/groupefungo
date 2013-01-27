@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://groupefungo.github.com/groupefungo/atom.xml" rel="self"/>
-  <link href="http://groupefungo.github.com/groupefungo/"/>
-  <updated>2013-01-27T09:53:31-05:00</updated>
-  <id>http://groupefungo.github.com/groupefungo/</id>
+  <title><![CDATA[Le Blog du Groupe fungo]]></title>
+  <link href="http://blog.fungo.ca/atom.xml" rel="self"/>
+  <link href="http://blog.fungo.ca/"/>
+  <updated>2013-01-27T16:40:56-05:00</updated>
+  <id>http://blog.fungo.ca/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rémi Gangon, Marc Litalien, etc..]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
