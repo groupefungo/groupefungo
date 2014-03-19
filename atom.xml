@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Le Blog du Groupe fungo]]></title>
-  <link href="http://blog.fungo.ca/atom.xml" rel="self"/>
-  <link href="http://blog.fungo.ca/"/>
-  <updated>2014-03-18T21:45:12-04:00</updated>
-  <id>http://blog.fungo.ca/</id>
+  <link href="http://groupefungo.github.com/groupefungo/atom.xml" rel="self"/>
+  <link href="http://groupefungo.github.com/groupefungo/"/>
+  <updated>2014-03-18T21:49:10-04:00</updated>
+  <id>http://groupefungo.github.com/groupefungo/</id>
   <author>
     <name><![CDATA[Rémi Gangon, Marc Litalien, etc..]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Commenteux]]></title>
-    <link href="http://blog.fungo.ca/blog/2014/03/18/commenteux/"/>
+    <link href="http://groupefungo.github.com/groupefungo/blog/2014/03/18/commenteux/"/>
     <updated>2014-03-18T20:31:00-04:00</updated>
-    <id>http://blog.fungo.ca/blog/2014/03/18/commenteux</id>
+    <id>http://groupefungo.github.com/groupefungo/blog/2014/03/18/commenteux</id>
     <content type="html"><![CDATA[<p>Nous avons enfin les projets adéquats qui nous donnent l’occasion de travailler ensemble sérieusement! Les résultats et le plaisir sont au rendez-vous comme il fallait s’y attendre!</p>
 
 <p>Le travail sur notre plus récent projet nous permet de commencer à penser à des blocs de construction à partager. Voici donc un petit gem tout simple que nous avons créé afin d’ajouter une couche de présentation générique au gem «acts_as_commentable ». (<a href="https://github.com/jackdempsey/acts_as_commentable">https://github.com/jackdempsey/acts_as_commentable</a>).</p>
@@ -26,24 +26,24 @@
 
 <p>Notre gem « commenteux » vient simplement ajouter des écrans de visualisation et de saisi de ces commentaires, disponible sur demande. Cela nous permettra, à l’aide d’une seule ligne de code, d’introduire dans nos applications basées sur Twitter Bootstrap (<a href="http://getbootstrap.com/2.3.2/">http://getbootstrap.com/2.3.2/</a>) et Devise (<a href="https://github.com/plataformatec/devise">https://github.com/plataformatec/devise</a>) une gestion des commentaires portant sur, par exemple, chaque client ou chaque contrat dans l’application hôte. (Ex : client 299, prenez garde au chien lors de la livraison.)</p>
 
-<p>« Commenteux » est disponible ici avec ses instructions d’utilisation : <a href="https://github.com/groupefungo/commenteux">https://github.com/groupefungo/commenteux</a></p>
+<p>« Commenteux » est disponible ici avec ses instructions d’utilisation <a href="https://github.com/groupefungo/commenteux">https://github.com/groupefungo/commenteux</a></p>
 
-<p>Il est aussi disponible pour installation directe sur RubyGems.org :<a href="https://rubygems.org/gems/commenteux">https://rubygems.org/gems/commenteux</a></p>
+<p>Il est aussi disponible pour installation directe sur RubyGems.org <a href="https://rubygems.org/gems/commenteux">https://rubygems.org/gems/commenteux</a></p>
 
 <p>Le gem est simple mais il nous a permis de tester une façon de travailler qui nous permet d’inclure des tests unitaires et fonctionnels valides capables de s’exécuter indépendamment dans un RailsEngine. Cela donne une bonne idée du genre de gem qui nous désirons créer pour nos clients. Simple, robuste et autonome.</p>
 
 <p>Vu des commentaires — Le rendu s’intègre automatiquement au layout de l’application hôte.
-<img src="http://blog.fungo.ca/images/image1.png" title="image" alt="images">
+<img src="http://groupefungo.github.com/groupefungo/images/image1.png" title="image" alt="images">
 Saisi — Noter que le composant peut être appelé autant directement par une adresse URL qu’à l’aide de Ajax. Il peut dans ce cas recevoir un tag hôte en paramètre afin de savoir ou placer le rendu.
-<img src="http://blog.fungo.ca/images/image2.png" title="image" alt="images"></p>
+<img src="http://groupefungo.github.com/groupefungo/images/image2.png" title="image" alt="images"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[La Naissance D’une Nouvelle ère De Déjà-vu]]></title>
-    <link href="http://blog.fungo.ca/blog/2013/03/06/la-naissance-dune-nouvelle-ere-de-deja-vu/"/>
+    <link href="http://groupefungo.github.com/groupefungo/blog/2013/03/06/la-naissance-dune-nouvelle-ere-de-deja-vu/"/>
     <updated>2013-03-06T20:31:00-05:00</updated>
-    <id>http://blog.fungo.ca/blog/2013/03/06/la-naissance-dune-nouvelle-ere-de-deja-vu</id>
+    <id>http://groupefungo.github.com/groupefungo/blog/2013/03/06/la-naissance-dune-nouvelle-ere-de-deja-vu</id>
     <content type="html"><![CDATA[<p>Assis autour d’une table, discussion sportive, discussion sur nos emplois actuels, retour sur ce qui nous a unis jadis. D’un passé pas très lointain ressurgissaient alors les meilleurs moments de notre carrière. Pas les plus faciles, mais les meilleurs. Allez, on fonce, on frappe, nous fondons Fungo. Déjà, dès les premières rencontres de démarrage de l’entreprise nous avons partagé les principes communs auxquels nous croyons. Nos doutes, si faibles fussent-ils, furent alors élagués, voire même annihilés.</p>
 
 <p>Pour tous, dans un projet, seul le résultat comptait, et ça nous manquait. Si nous avions gardé un contact étroit après plus de six (6) années, il devait bien y avoir une raison. Nous aimions travailler ensemble, sans compter les heures. Le retour du plaisir au travail devait refaire surface. Pour nous, c’était un gage de succès. Fungo inc. s’approchait alors de la piste d’envol.</p>

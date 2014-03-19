@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.fungo.ca/sitemap.xml 
+Sitemap: http://groupefungo.github.com/groupefungo/sitemap.xml 
